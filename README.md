@@ -53,3 +53,7 @@ buyer_type  sales  total_kg  avg_price_per_kg
 ## Stack
 
 Python Pandans, SQL, Matplotlib
+
+
+## Pricing Note
+This analysis would cost KES 120000 at a consulting firm. I will charge KES 65000 to conduct this analysis over 8 working days. 
