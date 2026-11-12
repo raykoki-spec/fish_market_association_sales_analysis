@@ -1,9 +1,24 @@
+
+"""
+Kisumu Fish Market Association Sales Analysis
+---------------------------------------------
+A SQL query script that connects to the sales database and prints summary with key metrics.
+It analyzes the first three months of digital sales records for a county government sponsor report. 
+
+
+Usage:
+    python ksm_fish_sales.py
+
+Config:
+    Ensure the program is saved in the same project folder with the database.
+"""
+
+
 import sqlite3
 from pathlib import Path
 import pandas as pd
 import matplotlib.pyplot as plt
 
-#db must sit in the same folder as this script
 DB_PATH = Path(__file__).parent / "ksm_fish_sales.db"
 
 queries =  {
