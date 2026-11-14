@@ -52,7 +52,7 @@ buyer_type  sales  total_kg  avg_price_per_kg
 
 ## Stack
 
-Python Pandans, SQL, Matplotlib
+Python Pandas, SQL, Matplotlib
 
 
 ## Pricing Note
